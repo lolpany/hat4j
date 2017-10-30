@@ -1,2 +1,2 @@
 # hat4j
-splyapoficator of db access - graphql for db
+shlyapoficator of db access - graphql for db
